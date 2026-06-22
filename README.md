@@ -1,7 +1,6 @@
 # Decode-Lab---Project-2-Exploratory-Data-Analysis-Excel
 Excel-based Exploratory Data Analysis project featuring data cleaning, descriptive statistics, outlier detection, KPI reporting, and an interactive sales dashboard for business insights.
 
-# Project 2: Exploratory Data Analysis (EDA) Using Excel
 
 ## Overview
 
